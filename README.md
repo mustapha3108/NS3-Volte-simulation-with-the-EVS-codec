@@ -1,2 +1,1 @@
-# NS3-Volte-simulation-with-the-EVS-codec
-exactly what the title says
+the use of the EVS codec is automated so make sure to ajust the "dir" variable wich contains the project path
