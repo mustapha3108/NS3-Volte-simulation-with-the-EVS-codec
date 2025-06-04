@@ -14,4 +14,6 @@ it uses a lot of ports so make sure they are free
 
 it has functions to adjust jitter and packet loss
 
-i really delete much of the comments tbh
+i really didn't delete much of the comments tbh
+
+i hated this, it was pain
